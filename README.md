@@ -29,12 +29,12 @@ show_weather.py file using the cd command. For
 example, if the file is saved on the desktop, use the
 following command
  
-cd C:\Users\YourUsername\Desktop
+# cd C:\Users\YourUsername\Desktop
 
 Once you are in the correct directory, you can
 execute the code by running the following command:
 
-python weather.py city_name
+# python weather.py city_name
 
 Replace city_name with the name of the city for
 which you want to get the weather information.
