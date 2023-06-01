@@ -12,12 +12,13 @@ speed, weather description, sunrise time, and sunset time.
 The script includes a function kelvin_to_celsius_to_fahrenheit to
 convert temperature from Kelvin to Celsius and Fahrenheit. The
 retrieved weather data is displayed in both Celsius and Fahrenheit
-units. The API key for OpenWeatherMap is obtained from the user
-through input
+units. 
+
 The script handles potential exceptions such as unsuccessful API
 requests, errors in parsing the JSON response, and missing data fields.
 It provides appropriate error messages in case of exceptions.
-To run the script, the user needs to provide a city name as a commandline argument. If no argument is provided, a message requesting a city
+
+To run the script, the user needs to provide a city name as a command line argument. If no argument is provided, a message requesting a city
 name is displayed
 
 # How to use it:
